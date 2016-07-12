@@ -1,5 +1,5 @@
 # yarc
-Yet Another Responsive Calendar
+Yet Another Responsive Calendar.
 
 This project is using [PiccoloPHP Framework](https://github.com/sinaza/PiccoloPHP).
 
