@@ -6,7 +6,7 @@ function refresh_yarc_table()
 {
 	var selectedMonth = $("#monthsDropdown").val();
 	var selectedYear = $("#yearsDropdown").val();
-    var params = [selectedMonth, selectedYear];
+	var params = [selectedMonth, selectedYear];
 
 	$.ajax({ url: 'index.php/yarc/get_month_info',
 		 data: {params: params},
