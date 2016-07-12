@@ -1,0 +1,9 @@
+html { display: table; margin: auto; }
+body, th, td, select { text-align: center; }
+body { display: table-cell; vertical-align: middle; }
+table, td { border: 1px solid black; }
+table { margin-top: 10px; }
+th, td { width: 150px; height: 75px; }
+th, select { background-color: black; color: white; border: 1px solid white; }
+select { width: 170px; height: 40px; margin: 30px; }
+.emptyBg { background-color: #d3d3d3; }
