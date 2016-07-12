@@ -5,7 +5,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-	        "url": "https://github.com/sinaza/PiccoloPHP"
+	        	"url": "https://github.com/sinaza/PiccoloPHP"
 		}
 	]
 }
