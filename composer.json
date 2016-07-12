@@ -1,11 +1,11 @@
 {
-"require": {
-    "sinaza/PiccoloPHP": "dev-master"
-},
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/sinaza/PiccoloPHP"
-    }
-]
+	"require": {
+		"sinaza/PiccoloPHP": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+	        "url": "https://github.com/sinaza/PiccoloPHP"
+		}
+	]
 }
